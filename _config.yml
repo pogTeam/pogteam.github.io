@@ -1,1 +1,9 @@
+title: pogTeam
+description: CTF team and infosec paradise
+show_downloads: true
+#google_analytics:
 theme: jekyll-theme-hacker
+
+twitter_username:     pogteambr
+github_username:      pogTeam
+ctftime_id:           32697
