@@ -23,12 +23,14 @@
             <a href="https://github.com/{{ site.github_username }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
       </div>
+    {% include nav.html %}
     </header>
 
     <div class="container">
       <section id="main_content">
         {{ content }}
       </section>
+
     </div>
 
     {% if site.google_analytics %}

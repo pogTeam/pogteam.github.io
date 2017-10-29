@@ -1,0 +1,15 @@
+- title: "Home"
+  href: "/"
+
+- title: "FAQ"
+  href: "/faq/"
+
+- title: "Code of Conduct"
+  href: "/conduct/"
+
+- title: "Contributing"
+  href: "/contributing/"
+
+- title: "Resources"
+  href: "/resources/"
+
